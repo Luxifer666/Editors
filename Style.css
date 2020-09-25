@@ -1,0 +1,24 @@
+body{
+    background:rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 , h2 , li{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: rgb(15, 180, 202);
+    padding: 10px;
+    background: rgb(255, 255, 255);
+}
+a{
+    color: rgb(17, 245, 233);
+}
+.secondary{
+    color: maroon;
+}
+.ridi{
+    color: rgb(182, 17, 17);
+}
+.links{
+    color: red;
+}
